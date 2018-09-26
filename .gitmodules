@@ -1,0 +1,6 @@
+[submodule "Desktop/themes/coder"]
+	path = Desktop/themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Desktop/mysite/themes/coder"]
+	path = Desktop/mysite/themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
